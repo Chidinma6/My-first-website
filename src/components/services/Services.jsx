@@ -17,27 +17,22 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Designing user interfaces and navigation menus.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Writing and reviewing code for sites, typically HTML, CSS, or JavaScript.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Integrating multimedia content onto a site.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing web applications.</p>
             </li>
           </ul>
         </article>
@@ -51,28 +46,24 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Developing software solutions to meet customer needs.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Creating and implementing the source code of new applications.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing source code and debugging code.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Evaluating existing applications and performing updates and modifications.</p>
             </li>
 
-            <li>
-              <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
           </ul>
         </article>
         {/* END OF APP DEVELOPMENT */}
@@ -85,28 +76,24 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Data mining or extracting usable data from valuable data sources.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Processing, cleansing, and validating the integrity of data to be used for analysis.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Creating data visualizations and reports to communicate their findings.</p>
             </li>
 
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Developing prediction systems and machine learning algorithms.</p>
             </li>
 
-            <li>
-              <BiCheck className='service_list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
           </ul>
         </article>
         {/* END OF DATA SCIENCE */}

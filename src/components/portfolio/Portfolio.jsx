@@ -17,7 +17,7 @@ const data = [
     id: 2,
     image:IMG2,
     title:'Rock Paper Scissors',
-    github: "https://github.com/Chidinma6",
+    github: "https://github.com/Chidinma6/RPS-game",
     demo: "https://google.com"
   },
   {
